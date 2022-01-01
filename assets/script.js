@@ -7,6 +7,13 @@ var currentDateTime = moment().format('dddd') + ", " + moment().format('MMMM Do 
     //  display todays date in header    
      $("#currentDay").text(currentDateTime); 
 
-//
+// textarea text saving to localStorage
+for (let i = 5; i <= 15; i++) {
+    var saved = localStorage.getItem(`text${i}`);
+    document.getElementById(`${i}`).value = saved;        
+ }
+
+ // color code time (future, past, present)
+ 
 
 });
