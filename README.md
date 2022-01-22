@@ -37,7 +37,7 @@ THEN the saved events persist
 ## Deployment
 
 - Github Repository
-https://github.com/carvasquez206/A5-DayPlanner
+https://github.com/carvasquez206/DayPlanner5
 
 - Application GitHub URL
 https://carvasquez206.github.io/DayPlanner5/
