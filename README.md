@@ -1,6 +1,6 @@
 # DayPlanner5
 
-A simple calendar application that allows a user to save events for each hour of the day. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery. I'll se [Moment.js](https://momentjs.com/) library to work with date and time. 
+A simple calendar application that allows a user to save events for each hour of the day. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery. I'll use [Moment.js](https://momentjs.com/) library to work with date and time. 
 
 ## User Story
 
